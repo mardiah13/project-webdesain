@@ -3,11 +3,15 @@
 <title>project-webdesain</title>
 </head>
 <body>
+<div class="menu">
+   <h1>
+       <li><a href="#">Code</a></li>
+       <li><a href="#">Issue</a></li>
+       <li><a href="#">Action<\/a></li>
+   </h1>
+</div>
    pahami bahwasannya dia lebih dekat dengan hidupmu,
    dari pada kamu dengan urat nadimu sendiri.
-<h1> hidup itu seperti kotak coklat,
-    kamu tidak pernah tau apa yang akan kamu dapat kan.
-</h1>
 </body>
     
 </html>
